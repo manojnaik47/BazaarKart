@@ -11,9 +11,9 @@ namespace BKart.Services.Promotions
         void UpdatePromotion(Promotion promotion);
         void DeletePromotion(Promotion promotion);
         Promotion GetPromotionById(long Id);
-        decimal GetDiscountAmount(Promotion promotion, decimal amount);
+        double GetDiscountAmount(Promotion promotion, double amount);
         List<Promotion> GetPreferredPromotion(IList<Promotion> promotions,
-            decimal amount, out decimal discountAmount);
+            double amount, out double discountAmount);
         bool ContainsDiscount(IList<Promotion> discounts, Promotion promotion);
     }
 }

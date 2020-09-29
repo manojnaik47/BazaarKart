@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BazaarDomain
+namespace BKart.Domain
 {
     public abstract partial class BaseEntity
     {

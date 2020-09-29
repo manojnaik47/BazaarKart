@@ -7,3 +7,6 @@ C:\Users\Dell\source\repos\BazaarKart\BKart.Services\obj\Debug\netstandard2.0\BK
 C:\Users\Dell\source\repos\BazaarKart\BKart.Services\obj\Debug\netstandard2.0\BKart.Services.AssemblyInfo.cs
 C:\Users\Dell\source\repos\BazaarKart\BKart.Services\obj\Debug\netstandard2.0\BKart.Services.dll
 C:\Users\Dell\source\repos\BazaarKart\BKart.Services\obj\Debug\netstandard2.0\BKart.Services.pdb
+C:\Users\Dell\source\repos\BazaarKart\BKart.Services\bin\Debug\netstandard2.0\BKart.Domain.dll
+C:\Users\Dell\source\repos\BazaarKart\BKart.Services\bin\Debug\netstandard2.0\BKart.Domain.pdb
+C:\Users\Dell\source\repos\BazaarKart\BKart.Services\obj\Debug\netstandard2.0\BKart.Services.csproj.CopyComplete

@@ -4,7 +4,8 @@ using System.Text;
 
 namespace BKart.Domain.Logging
 {
-    class Log
+    public class Log
     {
+        public string Exception { get; set; }
     }
 }
