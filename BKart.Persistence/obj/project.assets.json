@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BKart.Persistence\\BKart.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BKart.Persistence\\BKart.Persistence.csproj",
       "projectName": "BKart.Persistence",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BKart.Persistence\\BKart.Persistence.csproj",
+      "projectPath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BKart.Persistence\\BKart.Persistence.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BKart.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BKart.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

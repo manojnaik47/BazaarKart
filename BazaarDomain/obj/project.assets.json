@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BazaarDomain\\BKart.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BazaarDomain\\BKart.Domain.csproj",
       "projectName": "BKart.Domain",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BazaarDomain\\BKart.Domain.csproj",
+      "projectPath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BazaarDomain\\BKart.Domain.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BazaarDomain\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BazaarDomain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

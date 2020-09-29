@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8pz13GBX87d1q/ua4DdynCi2kr3qK6Y3Xml55vrLvRlOcQMWwlhFREGI/vrmdPEiWse5pS35uZf7IvNCS5ZKIw==",
+  "dgSpecHash": "CukHRbbptIAfHfyyQkvL2sQOWNuo3Bd/PcQr/+ofscFrdjbaQ8tJPlXXuwTn424VZ3LoS9lKpeOvRcN8uFhJTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BKart.Services\\BKart.Services.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BKart.Services\\BKart.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

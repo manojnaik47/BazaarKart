@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\bin\Debug\netstandard2.0\BKart.Persistence.deps.json
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\bin\Debug\netstandard2.0\BKart.Persistence.dll
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\bin\Debug\netstandard2.0\BKart.Persistence.pdb
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\obj\Debug\netstandard2.0\BKart.Persistence.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\obj\Debug\netstandard2.0\BKart.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\obj\Debug\netstandard2.0\BKart.Persistence.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\obj\Debug\netstandard2.0\BKart.Persistence.AssemblyInfo.cs
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\obj\Debug\netstandard2.0\BKart.Persistence.dll
+C:\Users\Dell\source\repos\BazaarKart\BKart.Persistence\obj\Debug\netstandard2.0\BKart.Persistence.pdb

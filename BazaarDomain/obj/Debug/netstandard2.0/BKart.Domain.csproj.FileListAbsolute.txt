@@ -1,0 +1,9 @@
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\bin\Debug\netstandard2.0\BKart.Domain.deps.json
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\bin\Debug\netstandard2.0\BKart.Domain.dll
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\bin\Debug\netstandard2.0\BKart.Domain.pdb
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\obj\Debug\netstandard2.0\BKart.Domain.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\obj\Debug\netstandard2.0\BKart.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\obj\Debug\netstandard2.0\BKart.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\obj\Debug\netstandard2.0\BKart.Domain.AssemblyInfo.cs
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\obj\Debug\netstandard2.0\BKart.Domain.dll
+C:\Users\Dell\source\repos\BazaarKart\BazaarDomain\obj\Debug\netstandard2.0\BKart.Domain.pdb

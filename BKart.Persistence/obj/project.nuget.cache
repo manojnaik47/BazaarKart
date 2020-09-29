@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+KyFrlktczImt6jD5xNAkf7yEDrZcGH3aAsc9AFPdQHu3UzVBbQVaj0za88fwkgys0zs+XyHMgSXWewW+z+0Ng==",
+  "dgSpecHash": "4pNY9nXmSt4Hr5uvTPHeLIr9XDboNOvZcJzEvCh0Vf2fqLMI8HH89d9yVbeBBIM89YIDkh4LUjYA+N6VgKxR+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BKart.Persistence\\BKart.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BKart.Persistence\\BKart.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

@@ -25,6 +25,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "BKart.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/BKart.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BKart.Domain.dll": {}
+        }
       }
     }
   },
@@ -172,10 +182,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "BKart.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BazaarDomain/BKart.Domain.csproj",
+      "msbuildProject": "../BazaarDomain/BKart.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "BKart.Domain >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -186,11 +202,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BKart.Services\\BKart.Services.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BKart.Services\\BKart.Services.csproj",
       "projectName": "BKart.Services",
-      "projectPath": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BKart.Services\\BKart.Services.csproj",
+      "projectPath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BKart.Services\\BKart.Services.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\source\\repos\\BazaarDomain\\BKart.Services\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BKart.Services\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -209,7 +225,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BazaarDomain\\BKart.Domain.csproj": {
+              "projectPath": "C:\\Users\\Dell\\source\\repos\\BazaarKart\\BazaarDomain\\BKart.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
